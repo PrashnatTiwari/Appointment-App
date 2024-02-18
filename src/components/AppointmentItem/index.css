@@ -1,0 +1,26 @@
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.appointment-card-container {
+  height: 15vh;
+  width: 20vw;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding: 10px;
+  margin-top: 15px;
+  font-size: 10px;
+  border: 1px solid #b5b7c4;
+}
+
+.empty-star-image {
+  height: 2vh;
+  width: 1vw;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.heading {
+  font-size: 15px;
+}
